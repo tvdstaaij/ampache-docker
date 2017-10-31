@@ -54,3 +54,7 @@ A simple checklist to test if everything is working correctly.
 ### Webdav
 
 ### UPnP / DLNA
+
+### Apocalypse
+
+-   [ ] Can be backed up and restored again
